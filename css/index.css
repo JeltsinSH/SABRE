@@ -1,0 +1,41 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+body{
+	display:flex;
+	flex-direction:column;
+}
+.container{
+	border:1px solid red;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	min-height:100vh;
+}
+form{
+	border:1px solid #000;
+	display:flex;
+	flex-direction:column;
+	padding:2em;
+	border-radius:10px;
+}
+form h2{
+	padding:0.5em 0;
+	text-align:center;
+}
+input[type=email], input[type=password], input[type=text]{
+	margin-bottom:1em;
+	height:30px;
+	padding-left:5px;
+	border-radius:5px;
+	border:1px solid grey;
+}
+input[type=submit]{
+	height:40px;
+	background-color:green;
+	color:#fff;
+	border:1px solid grey;
+	border-radius:5px;
+}
