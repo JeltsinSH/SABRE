@@ -1,1 +1,11 @@
-Hola Mundo
+VPOS
+Consiste en cambiar a un vuelo posterior si el pasajero ha perdido su vuelo inicial.
+El plazo para la solicitud es de 6 horas desde que se salio el vuelo original.
+Si el vuelo al que se acomodara al pasajero ya no tiene disponibilidad, se buscara disponibilidad en el vuelo posterior.
+Se le aplica regulacion tributaria si va realizar el cambio en varios tramos.
+Los productos que ya tenia en su vuelo original se le asignara en su nuevo vuelo, pero puede tener costo en la seleccion de asiento.
+
+Rutas domesticas Chile VPO1
+Rutas internacionales Chile VPO2
+Rutas domesticas Peru VPOS
+Rutas internacionales VPOP
