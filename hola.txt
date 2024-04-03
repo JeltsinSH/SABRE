@@ -21,4 +21,35 @@ Cuando PAX menciona que le entregaron otra maleta que no es la suya
 Ya que se ha comunicado antes de las 48 horas desde que realizó el pago y ademas faltan mas de 7 días para la salida del vuelo, le corresponde la devolución del 100% del monto pagado, todo sin opción a retracto.
 
 -¿Qué es el proceso Flight To Cancel?
+Es el proceso preventivo que aplica SKY para que los pasajeros no aborden vuelos y a la vez soliciten devoluciones, hay un periodo de 24 horas antes del vuelo y 24 horas despues del vuelo, cualquier devolución que el pax solicite no se aplicara dentro de este periodo, aunque solo se debe informar al pax que se tomara su solicitud.
+Si el pasajero tenia un vuelo para el 03/04/2024 a las 19:00 y se comunica el 04/04/2024 a las 06:00 se debe aplicar el proceso de flight to cancel.
 
+-¿Qué es el Pop Up? Explica detalladamente.
+POP UP – QUIEBRES DE ITINERARIO
+Los pop ups son pestañas emergentes que podremos encontrar en reservas 
+que han sufrido alteraciones en sus itinerarios originales.
+TIME CHANGE (TK): Cambio de horario.
+REPLACE(RP): Cambio de material y horario. (No siempre cambia
+horario).
+DELAY(DL): Vuelo atrasado
+NOOP (NO): No opera.
+CANCELED(XL): Vuelo cancelado.
+
+-DOM PE: Joe compró su pasaje ayer y su vuelo está programado para el 07/04/2024. Pax indica que desea la devolución de toda su reserva. ¿Qué le informas?
+No se puede realizar la devolución de toda la reserva ya que su vuelo esta próximo y solo quedan 5 días para la salida del vuelo, por lo tanto solo se puede realizar la devolución de tasas o puede realizar un traspaso a otro pasajero.
+
+-Indica las características del Waiver de enfermedad: ¿Qué alternativas le ofrecemos? ¿Plazos? ¿Documentación?
+Es una opción que permite que el pasajero no pierda su pasaje en caso de enfermedad, puede aplicar el pasajero, familiares y  acompañantes del mismo vuelo.
+EL pasajero puede realizar un cambio o devolución.
+Para cambio tendra un plazo de 1 hora antes del vuelo en el caso de Chile y para otros paises sera 30 días despues del vuelo.
+Para devolución tendra un plazo de 30 días despues del vuelo.
+LOs documentos que debe presentar son certificado médico donde se indique el tiempo de reposo el cual debe ser el mismo tiempo de todo el vuelo o mas.
+
+-¿Qué es el waiver de 12 horas? Indica un ejemplo:
+Es una opción la cual se denomina tambien como tiempo de gracía en la cual el pax tiene el plazo de 12 horas desde que realizó la compra para realizar algun cambio, solo se aplica para venta inicial.
+Por ejemplo cuando el pax por error digito una fecha incorrecta la cual no queria o seleccionó un tramo incorrecto.
+Podemos ayudar a pax colocando el ancillary o servicio correcto, se puede aplicar diferencia tarifaria y tambien se puede utilizar un voucher para que el pax realice el pago correcto.
+
+-Detallar como seria  el uso del voucher DP y ¿en qué momento lo usamos?
+Cuando el pax indica que realizó el pago pero no se ha reflejado y aparece como si no hubiera pagado o pago incompleto, en ese caso podemos ayudarlo haciendo uso del voucher DP, debemos verificar en SKYIN si todo esta en verde, tomamos los dato de pago para poder realizar el pago en galaxy, modificando los campos segun corresponda y como resposable de pago sera SKY AIRLINE.
+Si la reserva estaba cancelada por falta de pago tenemos que reactivarla tratando de que sea lo mismo que el pax habia solicitado, caso contrario tendremos que regularizalo con el voucher.
