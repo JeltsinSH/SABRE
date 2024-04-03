@@ -1,11 +1,24 @@
-VPOS
-Consiste en cambiar a un vuelo posterior si el pasajero ha perdido su vuelo inicial.
-El plazo para la solicitud es de 6 horas desde que se salio el vuelo original.
-Si el vuelo al que se acomodara al pasajero ya no tiene disponibilidad, se buscara disponibilidad en el vuelo posterior.
-Se le aplica regulacion tributaria si va realizar el cambio en varios tramos.
-Los productos que ya tenia en su vuelo original se le asignara en su nuevo vuelo, pero puede tener costo en la seleccion de asiento.
+-TIENE RESERVA DE INFANTE  Y QUIERE QUE EL MENOR VIAJE EN UN ASIENTO, EXPLICA EL PROCEDIMIENTO
+Los menores a 2 años no tienen derecho a asiento, pero en caso de que quiera un asiento para el infante debera pagarlo como asiento de niño al lado de la ventana, no podra ocupar asiento de primera fila y tampoco en salida de emergencia.
+Se le debe asignar el asiento al lado de la persona responsable.
+Si el infante tiene menos de 7 días de nacido se debe presentar certificado médico.
+El infante puede acceder al uso de una silla infantil certificada.
 
-Rutas domesticas Chile VPO1
-Rutas internacionales Chile VPO2
-Rutas domesticas Peru VPOS
-Rutas internacionales VPOP
+-Indica 5 medios de pago que puede usar el pasajero, los plazos de devolución correspondientes y si es necesario solicitar datos.
+Mercado Pago para Chile, Argentina y Uruguay tiene un plazo de devolución de 10 días y no se solicita datos.
+Paypal, tiene plazo de 10 días para devolución y no se solicita datos.
+Banco de Chile, tiene plazo de 10 días y si se solicitan datos.
+SAFETYPAY Chile, Perú y Colombia, tiene plazo de 10 días, para Chile y Perú se solicita datos pero para Colombia no.
+Banco Estado, tiene plazo de 10 días y si se solicita datos.
+Travel Voucher, se realiza expiración mediante SKYIN, no se solicita datos
+
+-Indica 3 escenarios donde es necesario crear un caso con el área especializada (BO).
+Cuando el PAX solicita la devolución de un pasaje que compro con travel voucher
+Cuando el PAX indica que perdieron su equipaje
+Cuando PAX menciona que le entregaron otra maleta que no es la suya
+
+-DOM CL: Natalia compró su pasaje el día de ayer y se comunica solicitando la devolución de su reserva, su vuelo está programado para el 30/04/2024. ¿Qué le informas?
+Ya que se ha comunicado antes de las 48 horas desde que realizó el pago y ademas faltan mas de 7 días para la salida del vuelo, le corresponde la devolución del 100% del monto pagado, todo sin opción a retracto.
+
+-¿Qué es el proceso Flight To Cancel?
+
