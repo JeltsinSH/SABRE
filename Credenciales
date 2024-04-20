@@ -1,18 +1,18 @@
 Usuario: 200040 - 200055
 Contraseña: CAPA0424
 
+EPR: Perfil de usuario
 
 ALT + F3 = Application Settings
 Seleccionar:
 Change AAA
 Change to CERT
-City Code: LIM o SCL
+City Code: LIM o SCL  
+OAC: Código de ciudad donde se trabaja
 
 
 Airline Code / Suflix: H2 es CHILE
 Duty Code:5   Perfiles de usuario
-
-Para capa estar siempre CERT.
 
 
 Printer Functions:
@@ -28,3 +28,8 @@ City
   Encode City Name: LIM
 Country:
   Ingresar nombre de país
+
+CERT: Prueba
+REST: Gestión real
+TEST: Aeropuerto
+Para capa estar siempre CERT.
