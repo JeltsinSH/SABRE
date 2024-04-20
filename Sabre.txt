@@ -12,5 +12,5 @@ VCAR ES el comprobante
 
 A infante no se agrega FOID
 
-MD: Comprobante del ancillary
+EMDs: Comprobante del ancillary
 VCR: Comprobante del pasaje
