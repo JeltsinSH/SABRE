@@ -31,5 +31,5 @@ Country:
 
 CERT: Prueba
 REST: Gestión real
-TEST: Aeropuerto
+TST: Aeropuerto
 Para capa estar siempre CERT.
