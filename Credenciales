@@ -17,5 +17,14 @@ Para capa estar siempre CERT.
 
 Printer Functions:
 Select option: Designated Printer
+Ticket Printer Addres: *ETKT*
+Type of Ticket Print Routine: 2A
 
 Si no sale impresora: Ctrl + P
+
+
+Encode/Decode
+City
+  Encode City Name: LIM
+Country:
+  Ingresar nombre de país
