@@ -1,1 +1,9 @@
 SABRE DÍA 1:
+Crear Reserva:
+Ctrl + Alt + I : para volver a la reserva
+Passenger type: ver el tipo de pasajero en la reserva
+
+ADT: ADULTO
+CNN: NIÑO
+UNN: MENOR NO ACOMPAÑADO
+INF: INFANTE
