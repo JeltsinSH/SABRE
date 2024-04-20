@@ -9,3 +9,7 @@ UNN: MENOR NO ACOMPAÑADO
 INF: INFANTE
 
 VCAR ES el comprobante
+
+A infante no se agrega FOID
+
+MD: 
