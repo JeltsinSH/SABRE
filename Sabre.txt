@@ -14,3 +14,6 @@ A infante no se agrega FOID
 
 EMDs: Comprobante del ancillary
 VCR: Comprobante del pasaje
+
+
+En multitramo, un pasajero solo tiene un ticket pero el ticket tiene cupones por cada tramo
