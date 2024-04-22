@@ -22,3 +22,10 @@ Estados:
 OK-CKIN-LFTD-USED
 LFT: sentado en el avión
 USED: cuando ya realizó el vuelo
+
+Ticket:
+Es un documento electrónico
+Se puede ver el status de su cupon del EMD
+Tiene una vigencia de 1 año
+Requiere de una reserva
+No esta permitido reemitir VCR a EMD
