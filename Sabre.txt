@@ -29,3 +29,4 @@ Se puede ver el status de su cupon del EMD
 Tiene una vigencia de 1 año
 Requiere de una reserva
 No esta permitido reemitir VCR a EMD
+Solo se puede asociar al mismo titular de la reserva
