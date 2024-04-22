@@ -30,3 +30,7 @@ Tiene una vigencia de 1 año
 Requiere de una reserva
 No esta permitido reemitir VCR a EMD
 Solo se puede asociar al mismo titular de la reserva
+
+Tipos de EMD:
+-Associated: Esta sincronizado con cada cupón de vuelo, no puede emitirse sin E-ticket
+-Stand-alone:No esta sincronizado con el E-ticket y el estatus del cupón es independiente
