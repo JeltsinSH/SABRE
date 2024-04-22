@@ -17,3 +17,8 @@ VCR: Comprobante del pasaje
 
 
 En multitramo, un pasajero solo tiene un ticket pero el ticket tiene cupones por cada tramo
+
+Estados:
+OK-CKIN-LFTD-USED
+LFT: sentado en el avión
+USED: cuando ya realizó el vuelo
