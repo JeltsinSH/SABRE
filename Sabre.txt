@@ -34,3 +34,11 @@ Solo se puede asociar al mismo titular de la reserva
 Tipos de EMD:
 -Associated (EMD-A): Esta sincronizado con cada cupón de vuelo, no puede emitirse sin E-ticket
 -Stand-alone (EMD-S):No esta sincronizado con el E-ticket y el estatus del cupón es independiente
+
+HD: Ancillary por pagar
+HI: Ancillary pagado
+HK: Ancillary confirmado
+HN: Ancillary por pagar
+
+605: PLACA DE SKY
+3450 también pero poco usado
