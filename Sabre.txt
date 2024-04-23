@@ -45,5 +45,9 @@ HN: Ancillary por pagar
 
 Agregar por Spec Request es sin costo, por free service si tiene costo
 
+Incongruencia siempre debe salir: ESV
 
+15sep  hk02/E   685
+25sep  hk02/E   685
+Para hacer cambio el vcr debe estar en OK
 
