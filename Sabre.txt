@@ -45,7 +45,7 @@ HN: Ancillary por pagar
 
 Agregar por Spec Request es sin costo, por free service si tiene costo
 
-Incongruencia siempre debe salir: ESV
+Incongruencia siempre debe salir: ESV (robot)
 La incongruencia no se borra hasta que hagamos los cambios
 
 15sep  hk02/E   685
