@@ -1,4 +1,4 @@
-hage sSABRE DÍA 1:
+bokhage sSABRE DÍA 1:
 Crear Reserva:
 Ctrl + Alt + I : para volver a la reserva
 Passenger type: ver el tipo de pasajero en la reserva
@@ -46,10 +46,13 @@ HN: Ancillary por pagar
 Agregar por Spec Request es sin costo, por free service si tiene costo
 
 Incongruencia siempre debe salir: ESV
+La incongruencia no se borra hasta que hagamos los cambios
 
 15sep  hk02/E   685
 25sep  hk02/E   685
 Para hacer cambio el vcr debe estar en OK
 
 exchange shopping mismo tipo de pasajero
-fast pad para niños
+fast path para niños - se hace reebok y despues exchange with options 30-40-45
+standar path 20-30-40
+
