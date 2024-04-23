@@ -1,4 +1,4 @@
-SABRE DÍA 1:
+hage sSABRE DÍA 1:
 Crear Reserva:
 Ctrl + Alt + I : para volver a la reserva
 Passenger type: ver el tipo de pasajero en la reserva
@@ -51,3 +51,5 @@ Incongruencia siempre debe salir: ESV
 25sep  hk02/E   685
 Para hacer cambio el vcr debe estar en OK
 
+exchange shopping mismo tipo de pasajero
+fast pad para niños
