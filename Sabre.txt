@@ -54,5 +54,12 @@ Para hacer cambio el vcr debe estar en OK
 
 exchange shopping mismo tipo de pasajero
 fast path para niños - se hace reebok y despues exchange with options 30-40-45
-standar path 20-30-40
+standar path 10-20-30-40-45
 
+split:separar las reservas
+
+
+primero anular los EMD y despues los VCR
+Se elemininan los espacios para que vuelvan los cupos al vuelo
+
+Ctrl + Alt + t : para poder ver los tramos que tenia cuando estoy haciendo un cambio
