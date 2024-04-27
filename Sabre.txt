@@ -63,3 +63,10 @@ primero anular los EMD y despues los VCR
 Se elemininan los espacios para que vuelvan los cupos al vuelo
 
 Ctrl + Alt + t : para poder ver los tramos que tenia cuando estoy haciendo un cambio
+
+SI APARECE X ES QUE HEMOS ELIMINADO
+SI APARECE A ES PORQUE SE HA AGREGADO
+SI APARECE R ES PORQUE SE HA GUARDADO
+
+OAC OFICINA DEL EPR
+AOC ES LA CIUDAD DONDE SE ESTA TRABAJANDO
